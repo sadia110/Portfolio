@@ -1,2 +1,2 @@
 # Portfolio
-hw2
+homework 2 .  
